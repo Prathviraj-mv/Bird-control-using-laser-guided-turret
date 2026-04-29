@@ -12,6 +12,12 @@ This project implements an automated, non-invasive system using computer vision 
 
 ---
 
+## Project Images
+
+### System Setup
+| <img src= "Images/WhatsApp Image 2026-04-29 at 12.04.01.jpeg" >| <img src= "Images/WhatsApp Image 2026-04-29 at 12.07.15.jpeg">|
+| --------------------------- | --------------------------- |
+
 ## 2. System Architecture
 
 
@@ -71,60 +77,8 @@ Control = Kp × Error
 
 ---
 
-## 7. Project Images
 
-### System Setup
-| <img src= "Images/WhatsApp Image 2026-04-29 at 12.04.01.jpeg" >| <img src= "Images/WhatsApp Image 2026-04-29 at 12.07.15.jpeg">|
-| --------------------------- | --------------------------- |
-
-
-
-## 8. Budget
-
-| Component | Cost (INR) |
-|----------|------------|
-| Raspberry Pi 5 | 12500 |
-| Camera | 4000 |
-| Stepper Motor | 750 |
-| Servo Motor | 390 |
-| Drivers | 620 |
-| Laser Module | 200 |
-| Power + Wiring | 3200 |
-| Structure | 1500 |
-| **Total** | **~22260** |
-
----
-
-## 9. Challenges
-
-- Limited real-time inference performance on Raspberry Pi  
-- Lighting variations affecting detection accuracy  
-- Reduced laser visibility under strong sunlight  
-- Tracking fast-moving targets  
-- Mechanical alignment between camera and laser  
-
----
-
-## 10. Future Improvements
-
-- Replace proportional controller with PID control  
-- Add tracking filters (Kalman / optical flow)  
-- Optimize models using quantization or hardware acceleration  
-- Integrate multi-modal deterrence (sound + light)  
-- Improve environmental robustness (weatherproof design)  
-
----
-
-## 11. Applications
-
-- Historical monuments and heritage sites  
-- Public infrastructure  
-- Temples and open structures  
-- Agricultural environments  
-
----
-
-## 12. Outcome
+## Outcome
 
 - Functional prototype of a real-time bird detection and deterrence system  
 - Integration of AI, embedded systems, and control engineering  
@@ -133,6 +87,6 @@ Control = Kp × Error
 ---
 
 
-## 13. License
+## License
 
 This project is released under the MIT License.
