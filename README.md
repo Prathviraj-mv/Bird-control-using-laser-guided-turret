@@ -22,8 +22,10 @@ This project implements an automated, non-invasive system using computer vision 
 
 
 ## CAD
+| <img src= "Images/Screenshot 2026-04-29 120121.png" >| <img src= "Images/Screenshot 2026-04-29 172619.png">|
+| --------------------------- | --------------------------- |
 
-<img src= "Images/Screenshot 2026-04-29 120121.png" >
+
 
 The system operates as a closed-loop pipeline:
 
