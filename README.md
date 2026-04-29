@@ -74,8 +74,7 @@ Control = Kp × Error
 ## 7. Project Images
 
 ### System Setup
-| <img src= "Images/WhatsApp Image 2026-04-29 at 12.04.01.jpeg" >| <img src= "Images/WhatsApp Image 2026-04-29 at 12.07.15.jpeg
-">|
+| <img src= "Images/WhatsApp Image 2026-04-29 at 12.04.01.jpeg" >| <img src= "Images/WhatsApp Image 2026-04-29 at 12.07.15.jpeg">|
 | --------------------------- | --------------------------- |
 
 
