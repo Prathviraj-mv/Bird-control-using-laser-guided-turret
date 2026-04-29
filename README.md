@@ -21,6 +21,10 @@ This project implements an automated, non-invasive system using computer vision 
 ## 2. System Architecture
 
 
+## CAD
+
+<img src= "Images/Screenshot 2026-04-29 120121.png" >
+
 The system operates as a closed-loop pipeline:
 
 Camera → Processing Unit → Bird Detection → Localization → Control → Actuation
